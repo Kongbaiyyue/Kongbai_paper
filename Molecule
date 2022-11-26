@@ -1,0 +1,21 @@
+# Retrosynthesis
+## Input2Output
+### Graph2Graph
+- [MEGAN: Molecule edit graph attention network: modeling chemical reactions as sequences of graph edits. Mikołaj Sacha;Mikołaj Błaż;Piotr Byrski;Paweł Dąbrowski-Tumański;Mikołaj Chromiński;Rafał Loska](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c00537) JCIM2021 sci-2
+- [GraphRetro: Learning Graph Models for Template-Free Retrosynthesis. Vignesh Ram Somnath;Charlotte Bunne;Connor W. Coley;Andreas Krause;Regina Barzilay](https://grlplus.github.io/papers/61.pdf) ICML2020 ccf-A
+- [G2G: A Graph to Graphs Framework for Retrosynthesis Prediction. Chence Shi;Chence Shi;Hongyu Guo;Ming Zhang;Jian Tang](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf) ICML2020 ccf-A
+- [GLN: Retrosynthesis Prediction with Conditional Graph Logic Network. Hanjun Dai;Chengtao Li;Connor W. Coley;Bo Dai;Le Song](https://proceedings.neurips.cc/paper/2019/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) NeurIPS2019 ccf-A
+
+### Graph2SMIILES
+
+### SMILES2SMILES
+
+## template
+### template-based
+
+### template-free
+
+### semi-template-based
+
+# Pretrain
+## 
