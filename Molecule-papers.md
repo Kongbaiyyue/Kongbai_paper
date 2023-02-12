@@ -20,5 +20,11 @@
 
 ### semi-template-based
 
-# Pretrain
-## 
+
+# Molecule Pretrain
+- [Chemformer: a pre-trained transformer for computational chemistry. Ross Irwin;Spyridon Dimitriadis;Jiazhen He;Esben Jannik Bjerrum](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/pdf) Machine Learning: Science and Technology2022
+- [PanGu Drug Model: Learn a Molecule Like a Human. Xinyuan Lin;Chi Xu;Zhaoping Xiong;Xinfeng Zhang;Ningxi Ni;Bolin Ni;Jianlong Chang;Ruiqing Pan;Zidong Wang;Fan Yu;Qi Tian;Hualiang Jiang;Mingyue Zheng;Nan Qiao](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full.pdf) 2022
+
+
+# Molecule Generation
+- [Data-efficient Graph Grammar Learning For Molecular Generation. Minghao Guo; V eronika Thost;Beichen Li;Payel Das;Jie Chen;Wojciech Matusik](https://arxiv.org/pdf/2203.08031.pdf) ICLR2022 ccf-A
