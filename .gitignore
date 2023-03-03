@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.pyc
+*.log
+*.err
+*.xml
+asset/*

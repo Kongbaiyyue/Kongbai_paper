@@ -14,6 +14,9 @@
 - many previous papers have pointed out the limited diversity of sequence to sequence models in other domains.
 
 ## template
+- [Improving Few- and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks.Philipp Seidl; Philipp Renz; Natalia Dyubankova; Paulo Neves; Jonas Verhoeven; Jörg K. Wegner;
+Marwin Segler; Sepp Hochreiter; and Günter Klambauer](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01065) JCIM2021 sci-2
+
 ### template-based
 
 ### template-free

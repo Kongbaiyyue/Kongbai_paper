@@ -4,3 +4,20 @@
 # Muiltimodal Paper
 - [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
 - [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/pdf/1809.00782.pdf)
+
+
+待看论文：
+language model：
+1. metaLM(Microsoft)
+2. Poli(Google)
+generalist model
+1. Unified IO
+2. Uniperciver (V2)
+3. Uniperciver MOE
+
+解决的问题：
+1. 计算效率问题
+
+
+论文关系：
+![paper relation](多模态.png)
