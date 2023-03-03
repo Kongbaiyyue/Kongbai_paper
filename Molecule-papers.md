@@ -15,7 +15,7 @@
 
 ## template
 - [Improving Few- and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks.Philipp Seidl; Philipp Renz; Natalia Dyubankova; Paulo Neves; Jonas Verhoeven; Jörg K. Wegner;
-Marwin Segler; Sepp Hochreiter; and Günter Klambauer](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01065) JCIM2021 sci-2
+Marwin Segler; Sepp Hochreiter; and Günter Klambauer](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01065) JCIM2021 sci-2 [blog](/Molecule/Retrosynthesis/Improving%20Few-%20and%20Zero-Shot%20Reaction%20Template%20Prediction%20Using%20Modern%20Hopfield%20Networks.md)
 
 ### template-based
 
