@@ -1,7 +1,6 @@
-# *.png
-# *.jpg
-# *.pyc
-# *.log
-# *.err
-# *.xml
-# asset/*
+*.png
+*.jpg
+*.pyc
+*.log
+*.err
+*.xml
