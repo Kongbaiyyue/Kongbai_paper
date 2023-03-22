@@ -9,6 +9,8 @@
 ### Graph2SMIILES
 
 ### SMILES2SMILES
+- [RETROFORMER: pushing the limits of end-to-end retrosynthesis transformer. Yue Wan; Benben Liao; Chang-Yu Hsieh1;  Shengyu Zhang2](https://arxiv.org/pdf/2201.12475.pdf) ICML2022 ccf-A
+- [RetroDCVAE:Modeling Diverse Chemical Reactions for Single-step Retrosynthesis via Discrete Latent Variables](https://dl.acm.org/doi/pdf/10.1145/3511808.3557397) CIKM2022 ccf-B
 
 ### chanllenge
 - many previous papers have pointed out the limited diversity of sequence to sequence models in other domains.
