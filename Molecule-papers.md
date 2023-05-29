@@ -23,6 +23,9 @@ Marwin Segler; Sepp Hochreiter; and Günter Klambauer](https://pubs.acs.org/doi
 
 ### semi-template-based
 
+## prepare read
+- [MIND THE RETROSYNTHESIS GAP: BRIDGING THE DIVIDE BETWEEN SINGLE-STEP AND MULTI-STEP RETROSYNTHESIS PREDICTION](https://arxiv.org/pdf/2212.11809.pdf)
+- [Artificial Intelligence for Retrosynthesis Prediction](https://reader.elsevier.com/reader/sd/pii/S2095809922005665?token=13DEE7726C507F6FA06C2C6B0A941476D5D09D9174F0F0A44B76C6AA7A2FF1E5C5BD44EEF941BA248CC8E581AF52D639&originRegion=us-east-1&originCreation=20230331030330)
 
 # Molecule Pretrain
 - [Chemformer: a pre-trained transformer for computational chemistry. Ross Irwin;Spyridon Dimitriadis;Jiazhen He;Esben Jannik Bjerrum](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/pdf) Machine Learning: Science and Technology2022
@@ -31,3 +34,4 @@ Marwin Segler; Sepp Hochreiter; and Günter Klambauer](https://pubs.acs.org/doi
 
 # Molecule Generation
 - [Data-efficient Graph Grammar Learning For Molecular Generation. Minghao Guo; V eronika Thost;Beichen Li;Payel Das;Jie Chen;Wojciech Matusik](https://arxiv.org/pdf/2203.08031.pdf) ICLR2022 ccf-A
+
