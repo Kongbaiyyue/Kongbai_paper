@@ -8,6 +8,16 @@
 
 ## 直接端到端的训练
 
+# 特征 [Chemistry-informed molecular graph](https://www.pnas.org/doi/epdf/10.1073/pnas.2212711119)
+## 经验知识
+溶剂和催化剂 (决定了反应类别 reaction type)
+
+## 内在特征
+- NMR chemical shift
+- bond dissociation energies
+- one or a few atom to reaction
+- 
+
 
 ## Input2Output
 ### Graph2Graph
