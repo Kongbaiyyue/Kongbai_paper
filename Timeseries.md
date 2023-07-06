@@ -26,3 +26,18 @@
 
 ### IMS和DMS的比较
 与DMS预测结果相比，由于采用了自回归模式，IMS预测的方差较小，但不可避免地会受到误差累积效应的影响。因此，当有一个高度准确的单步的predictor，且T相对较小时，IMS更可取。相比之下，当难以获得无偏的单步预测模型或T较大时，DMS预测会生成更准确的预测（make sense）。
+
+## paper
+### 时序异常检测
+[Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) ICDM2020
+
+[Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf) ICSE2022
+
+[DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865986) TIFS2022 网络与信息安全
+
+#### 多模态时序异常检测
+[Identifying Bad Software Changes via Multimodal Anomaly
+Detection for Online Service Systems
+](https://netman.aiops.org/wp-content/uploads/2021/09/SCWarn.pdf) FSE/ESEC2021
+
+

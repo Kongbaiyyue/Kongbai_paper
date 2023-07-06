@@ -1,0 +1,1 @@
+- [”What makes my queries slow?”: Subgroup Discovery for SQL Workload Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678915) ASE2021
