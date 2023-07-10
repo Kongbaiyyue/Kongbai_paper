@@ -29,15 +29,19 @@
 
 ## paper
 ### 时序异常检测
-[Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) ICDM2020
+- [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) ICDM2020
 
-[Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf) ICSE2022
+- [Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf) ICSE2022
 
-[DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865986) TIFS2022 网络与信息安全
+- [DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865986) TIFS2022 网络与信息安全
 
 #### 多模态时序异常检测
-[Identifying Bad Software Changes via Multimodal Anomaly
+- [Identifying Bad Software Changes via Multimodal Anomaly
 Detection for Online Service Systems
 ](https://netman.aiops.org/wp-content/uploads/2021/09/SCWarn.pdf) FSE/ESEC2021
 
+### 时序表征学习(Time Series Representation Learning)
+- [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401) kdd2021
 
+- [Unsupervised Scalable Representation Learning
+for Multivariate Time Series](https://proceedings.neurips.cc/paper_files/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf) nips2019
